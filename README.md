@@ -1,5 +1,3 @@
-![logo](https://github.com/shohan12727/shohan12727/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
-
 <!-- Banner Image --> 
 <p align="center">
   
