@@ -6,6 +6,21 @@
 
 - 📫 How to reach me **aishohan001@gmail.com**
 
+  ### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohan12727&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohan12727&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<!-- Dynamic Theme-Compatible Contribution Graph -->
+<!-- <img src="https://raw.githubusercontent.com/shohan12727/shohan12727/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions" width="100%"/> -->
+
+<!-- OR -->
+
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simanto saha" height="30" width="40" /></a>
