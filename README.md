@@ -40,7 +40,37 @@
 
 [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📈 Github stats:
 
+<!--color=00bfbf-->
+
+<!--<div align="center">  -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shohan12727&show_icons=true&theme=radical" >
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shohan12727&theme=tokyonight">
+    </td>
+  </tr>
+</table>
+
+
+---
+
+[![Shohan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shohan-is-coding)](https://github.com/shohan12727/github-readme-stats)
+
+
+
+---
+
+
+![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
