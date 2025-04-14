@@ -67,8 +67,7 @@
 ---
 
 
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ---
 
@@ -77,6 +76,4 @@
 <a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simanto saha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61569401164246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simanto saha" height="30" width="40" /></a>
 </p>
-<div>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohan12727&show_icons=true&locale=en&layout=compact" alt="Shohan" /></p>
-</div>
+
