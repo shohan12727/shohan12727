@@ -53,13 +53,7 @@
   </tr>
 </table>
 
-
----
-
-[![Shohan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shohan-is-coding)](https://github.com/shohan12727/github-readme-stats)
-
-
----
+--------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
