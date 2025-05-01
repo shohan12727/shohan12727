@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **aishohan001@gmail.com**
 
-- <a href="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e/project/cac749aa-8654-4c40-8fe1-310f92bf2021"><img src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e/project/cac749aa-8654-4c40-8fe1-310f92bf2021.svg" alt="wakatime"></a>
-
   ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohan12727&theme=radical" alt="GitHub Streak"/>
