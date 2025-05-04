@@ -21,8 +21,9 @@
 
  ## My Coding Activity
 [![wakatime](https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg)](https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan12727&label=Profile%20views&color=0e75b6&style=flat" alt="404" /> </p>
+
 <h3 align="center"> I'm an EEE student at North South University with a growing passion for programming. Though not from a CSE background, I'm diving into web development and learning multiple coding languages. I thrive on exploring new tech and solving problems creatively. Eager to contribute to innovative projects and grow in the programming world. Let's code the future together! 🌟</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan12727&label=Profile%20views&color=0e75b6&style=flat" alt="404" /> </p>
 <img align="right" alt="coding" width="450" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyOTQ4NzQsIm5iZiI6MTc0MDI5NDU3NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDA3MDkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlMjNlYWM5NDYzZWY2OWU1ZjU1ZjczOTcyZmMwYTAyNzlkZmIxODFmZjQ5YWJjNzEzOGVjNjlkMjQwMTQ5ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PuE2T27hH8M-ESx2nEItZRTkZpf8EQr9f9fB8qZZA-A">
 
 - 📫 How to reach me **aishohan001@gmail.com**
