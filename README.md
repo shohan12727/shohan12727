@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ashraful+Islam+Shohan;" />
 </h1>
 
- 
+ ## My Coding Activity
 [![wakatime](https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg)](https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan12727&label=Profile%20views&color=0e75b6&style=flat" alt="404" /> </p>
 <h3 align="center"> I'm an EEE student at North South University with a growing passion for programming. Though not from a CSE background, I'm diving into web development and learning multiple coding languages. I thrive on exploring new tech and solving problems creatively. Eager to contribute to innovative projects and grow in the programming world. Let's code the future together! 🌟</h3>
