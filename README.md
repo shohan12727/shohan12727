@@ -25,8 +25,6 @@
 <img align="right" width="420" alt="coding gif" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
 
 I am an **EEE undergraduate at North South University** with a strong and growing focus on **software engineering and web development**.  
-Although my academic background is not CSE, I actively bridge that gap through **hands-on projects, consistent learning, and real-world problem solving**.
-
 I enjoy working across the stack, exploring modern frameworks, and building systems that are **clean, scalable, and user-centric**.
 
 -  Currently focused on **Next.js, Typescript, Node.js, and modern web architecture**
