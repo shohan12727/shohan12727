@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/4gZgF2tG/Gold-Modern-Personal-Linked-In-Banner-1.png"
+    src="https://github.com/shohan12727/shohan12727/blob/main/Gold%20Modern%20Personal%20LinkedIn%20Banner%20(1).png"
     alt="Coding Animation"
     width="100%"
   />
