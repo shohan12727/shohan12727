@@ -19,7 +19,7 @@
 </p>
 
 ---
-🌐 **Portfolio:** [https://shohan001.netlify.app/](https://shohan001.netlify.app)
+🌐 **Portfolio:** [Portfolio](https://shohan001.netlify.app)
 ## 👨‍💻 About Me
 
 <img align="right" width="420" alt="coding gif" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
@@ -63,7 +63,7 @@ I am an **EEE undergraduate at North South University** with a strong and growin
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="_blank">
