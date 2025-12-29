@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif"
+    src="https://i.ibb.co.com/4gZgF2tG/Gold-Modern-Personal-Linked-In-Banner-1.png"
     alt="Coding Animation"
     width="100%"
   />
