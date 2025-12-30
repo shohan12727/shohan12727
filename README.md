@@ -1,5 +1,4 @@
 <!-- ===================== HERO SECTION ===================== -->
-<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
  <p align="center">
   <img 
@@ -14,7 +13,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Ashraful+Islam+Shohan;EEE+Student+|+Web+Developer+|+Problem+Solver"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there+I'm+Ashraful+Islam+Shohan;EEE+Student+|+Web+Developer+|+Problem+Solver"
     alt="Typing SVG"
   />
 </h1>
