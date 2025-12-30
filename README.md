@@ -6,7 +6,7 @@
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlnamFrZWVzaWduY2J5OHFkcTdlbGliazFzNGtsODNpeHozYWdwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Coding Animation"
     height="380"
-    width="80%"
+    width="90%"
   />
 </p>
 
