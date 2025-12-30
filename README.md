@@ -36,8 +36,7 @@
 
 <img align="right" width="420" alt="Coding GIF" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
 
-I am an **Electrical & Electronics Engineering (EEE) undergraduate** at  
-**North South University**, with a strong focus on **software engineering and modern web development**.
+I am a student at **North South University**, studying Electrical and Electronic Engineering (EEE). An enthusiastic and curious individual, I enjoy tackling challenging problems and finding solutions to unsolved puzzles.
 
 ### 🔍 Current Focus
 - **Next.js** & **TypeScript**
