@@ -25,15 +25,17 @@
     alt="Profile Views"
   />
 </div>
-
 <br/>
 
-<div align="center">
-  🌐 <strong>Portfolio:</strong>
-  <a href="https://shohan001.netlify.app" target="_blank">
-    https://shohan001.netlify.app
-  </a>
-</div>
+---
+
+## Contact Info
+
+ **Email:** `aishohan001@gmail.com` <br/>
+ **WhatsApp:** `01887104758`
+<li>  Portfolio: https://shohan001.netlify.app </li>
+<li>  LinkedIn: https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b </li>
+</br>
 
 ---
 
@@ -87,9 +89,12 @@
 - **Node.js** & backend fundamentals
 - **Scalable, maintainable web architecture**
 
-📫 **Email:** `aishohan001@gmail.com`
 
 ---
+
+
+
+
 
 
 
@@ -113,18 +118,11 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shohan12727&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shohan12727&show_icons=true&theme=radical"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</div>
 
 ---
 
