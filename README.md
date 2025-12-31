@@ -37,6 +37,19 @@
 
 ---
 
+## ⏱️ Coding Activity
+
+<div align="left">
+  <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
+    <img 
+      src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg"
+      alt="WakaTime Badge"
+    />
+  </a>
+</div>
+
+---
+
 ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -78,18 +91,7 @@
 
 ---
 
-## ⏱️ Coding Activity
 
-<div align="left">
-  <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
-    <img 
-      src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg"
-      alt="WakaTime Badge"
-    />
-  </a>
-</div>
-
----
 
 ## 📊 GitHub Activity
 
