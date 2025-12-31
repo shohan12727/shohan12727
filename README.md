@@ -63,8 +63,11 @@
   alt="Coding Animation"
 />
 
-I am a student at **North South University**, pursuing **Electrical and Electronic Engineering (EEE)**.  
-I enjoy solving challenging problems, building scalable web applications, and thinking like an engineer.
+<p style="text-align: justify;">
+  I am an Electrical and Electronic Science student and a web developer, actively progressing toward full-stack development. I build web applications using React, Next.js, modern JavaScript, and TypeScript, with a strong focus on performance, accessibility, and scalable architecture.
+  <br><br>
+  I enjoy solving real-world problems through both software and hardware—this is what truly motivates me. I am highly dedicated and persistent, qualities that consistently add value to the teams and projects I work with. I have worked on 4 real-world projects currently in use by users and have built 2 production-grade applications.
+</p>
 
 ### 🔍 Current Focus
 - **Next.js** & **TypeScript**
