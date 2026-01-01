@@ -107,7 +107,7 @@ So far, I have:
 - **Email:** `aishohan001@gmail.com`
 - **WhatsApp:** `+8801887104758`
 - **Portfolio:** https://shohan001.netlify.app  
-- **LinkedIn:** https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b  
+- **LinkedIn:** www.linkedin.com/in/ashraful-islam-shohan 
 
 ---
 
