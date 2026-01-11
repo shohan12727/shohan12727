@@ -37,31 +37,26 @@
   alt="Developer at work"
 />
 
-I am an **Electrical & Electronic Engineering (EEE) student** and a **Web Developer** with a strong inclination toward **scalable, performance-oriented web systems**.
+I am an **Electrical & Electronic Engineering (EEE) student** and a **Web Developer** with a strong focus on building **scalable, maintainable, and performance-driven web applications**.
 
-My engineering mindset allows me to approach software problems with:
-- structured thinking  
-- system-level reasoning  
-- long-term maintainability in mind  
+I work primarily with **React, Next.js, JavaScript, and TypeScript**, applying engineering principles such as:
+- clean architecture  
+- predictable data flow  
+- API-driven design  
 
-I actively work with **React, Next.js, JavaScript, and TypeScript**, focusing on:
-- clean component architecture  
-- predictable state management  
-- API-driven applications  
-
-### Proven Experience
+### Experience Highlights
 - ✅ **4 real-world applications** currently in use  
 - 🚀 **2 production-grade systems**  
-- 👥 Experience with **solo & collaborative development workflows**
+- 👥 Experience with **solo and team-based development**
 
 ---
 
-## 🎯 Current Engineering Focus
+## 🎯 Current Focus
 
 - **Next.js (App Router) & TypeScript**
-- **Backend fundamentals (Node.js, APIs, Auth)**
-- **Performance optimization & scalable architecture**
-- **Clean code, linting, and consistency**
+- **Node.js & backend fundamentals**
+- **API design, authentication, and data flow**
+- **Code quality, linting, and consistency**
 
 ---
 
@@ -78,14 +73,14 @@ I actively work with **React, Next.js, JavaScript, and TypeScript**, focusing on
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧪 Tooling, Testing & Quality
+### 🧪 Tooling & Quality
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## ⏱️ Development Activity
+## ⏱️ Coding Activity
 
 <div align="left">
   <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
@@ -98,21 +93,21 @@ I actively work with **React, Next.js, JavaScript, and TypeScript**, focusing on
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=shohan12727&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=github-dark&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=shohan12727&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&theme=github_dark&hide_border=true&layout=compact" />
+![](https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=neon&hide_border=false)
+
+<br/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark)
 
 ---
 
-## 📬 Contact Information
+## 📬 Contact
 
 - 📧 **Email:** `aishohan001@gmail.com`
 - 📱 **WhatsApp:** `+8801887104758`
@@ -121,7 +116,7 @@ I actively work with **React, Next.js, JavaScript, and TypeScript**, focusing on
 
 ---
 
-## 🤝 Professional Networks
+## 🤝 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="_blank">
@@ -131,5 +126,3 @@ I actively work with **React, Next.js, JavaScript, and TypeScript**, focusing on
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
   </a>
 </div>
-
-
