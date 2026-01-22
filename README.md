@@ -107,6 +107,18 @@ I work primarily with **React, Next.js, JavaScript, and TypeScript**, applying e
 
 ---
 
+## 🧠 Language Usage Breakdown
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=neon&hide_border=false&langs_count=8"
+    alt="Top Languages"
+  />
+</div>
+
+
+---
+
 ## 📬 Contact
 
 - 📧 **Email:** `aishohan001@gmail.com`
