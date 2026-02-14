@@ -37,15 +37,16 @@
   alt="Developer at work"
 />
 
-I am an **Electrical & Electronic Engineering (EEE) student** and a **Web Developer** with a strong focus on building **scalable, maintainable, and performance-driven web applications**.
+I am an **Electrical & Electronic Engineering (EEE) student** and **Web Developer** focused on building **scalable, maintainable, and performance-driven web applications**.
 
-I work primarily with **React, Next.js, JavaScript, and TypeScript**, applying engineering principles such as:
+My engineering approach emphasizes:
 - clean architecture  
 - predictable data flow  
-- API-driven design  
+- API-first design  
+- security-aware development  
 
 ### Experience Highlights
-- ✅ **4 real-world applications** currently in use  
+- ✅ **4 real-world applications** actively in use  
 - 🚀 **2 production-grade systems**  
 - 👥 Experience with **solo and team-based development**
 
@@ -55,8 +56,17 @@ I work primarily with **React, Next.js, JavaScript, and TypeScript**, applying e
 
 - **Next.js (App Router) & TypeScript**
 - **Node.js & backend fundamentals**
-- **API design, authentication, and data flow**
+- **Authentication, authorization, and API design**
 - **Code quality, linting, and consistency**
+- **Cybersecurity fundamentals & CTF practice**
+
+---
+
+## 🛡️ TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shohan12727.png)](https://tryhackme.com/p/shohan12727)
+
+> Actively practicing offensive security, networking fundamentals, Linux, and CTF-style problem solving on **:contentReference[oaicite:0]{index=0}**.
 
 ---
 
@@ -82,59 +92,52 @@ I work primarily with **React, Next.js, JavaScript, and TypeScript**, applying e
 
 ## ⏱️ Coding Activity
 
-<div align="left">
-  <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
-    <img 
-      src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg"
-      alt="WakaTime Badge"
-    />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-![](https://github-readme-stats.vercel.app/api?username=shohan12727&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=neon&hide_border=false)
-
-<br/>
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark)
-
----
-
-## 🧠 Language Usage Breakdown
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=neon&hide_border=false&langs_count=8"
-    alt="Top Languages"
+<a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
+  <img 
+    src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg"
+    alt="WakaTime Badge"
   />
-</div>
+</a>
 
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=shohan12727&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=neon&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark" />
+
+---
+
+## 🧠 Language Usage
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=neon&hide_border=false&langs_count=8"
+  alt="Top Languages"
+/>
 
 ---
 
 ## 📬 Contact
 
-- 📧 **Email:** `aishohan001@gmail.com`
-- 📱 **WhatsApp:** `+8801887104758`
-- 🌐 **Portfolio:** https://shohan001.netlify.app
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ashraful-islam-shohan
+- 📧 **Email:** aishohan001@gmail.com  
+- 📱 **WhatsApp:** +8801887104758  
+- 🌐 **Portfolio:** https://shohan001.netlify.app  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ashraful-islam-shohan  
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
-  </a>
-  <a href="https://web.facebook.com/ashraful.islam.shohan.467732" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/ashraful-islam-shohan-094b6530b/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+</a>
+<a href="https://web.facebook.com/ashraful.islam.shohan.467732" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
+</a>
