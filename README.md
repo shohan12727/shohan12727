@@ -64,9 +64,9 @@ My engineering approach emphasizes:
 
 ## 🛡️ TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shohan12727.png)](https://tryhackme.com/p/shohan12727)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/aishohan001.png) 
 
-> Actively practicing offensive security, networking fundamentals, Linux, and CTF-style problem solving on **:contentReference[oaicite:0]{index=0}**.
+
 
 ---
 
