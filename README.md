@@ -64,7 +64,7 @@ My engineering approach emphasizes:
 
 ## 🛡️ TryHackMe Profile
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/aishohan001.png) 
+Profile_link: https://tryhackme.com/p/aishohan001
 
 
 
