@@ -101,19 +101,25 @@ Profile_link: https://tryhackme.com/p/aishohan001
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=shohan12727&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
+<div align="center">
+
+  <!-- Main Stats -->
+  <img 
+  height="180em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=shohan12727&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+/>
+
+  <!-- Streak Stats (more stable fork) -->
+  <img 
+    height="180em" 
+    src="https://streak-stats.demolab.com?user=shohan12727&theme=tokyonight&hide_border=true" 
+  />
+
+</div>
 
 <br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=shohan12727&theme=neon&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shohan12727&theme=react-dark" />
-
----
 
 ## 🧠 Language Usage
 
