@@ -126,7 +126,7 @@ Profile_link: https://tryhackme.com/p/aishohan001
 ## 🧠 Language Usage
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=neon&hide_border=false&langs_count=8"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Top Languages"
 />
 
