@@ -39,8 +39,8 @@
 
 I am an **Electrical & Electronic Engineering (EEE) student** and **Developer** focused on building **scalable, maintainable, and performance-driven web applications**.
 
-Engineer by mindset. (I love to build stuff, it give me genuine kick.)
-Goal: Building my personal OS named King-OS.
+- **Engineer by mindset. (I love to build stuff, it give me genuine kick.)**
+- **Goal: Building my personal OS named King-OS.**
 
 ### Experience Highlights
 - ✅ **4 real-world applications** actively in use  
