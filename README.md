@@ -37,13 +37,10 @@
   alt="Developer at work"
 />
 
-I am an **Electrical & Electronic Engineering (EEE) student** and **Web Developer** focused on building **scalable, maintainable, and performance-driven web applications**.
+I am an **Electrical & Electronic Engineering (EEE) student** and **Developer** focused on building **scalable, maintainable, and performance-driven web applications**.
 
-My engineering approach emphasizes:
-- clean architecture  
-- predictable data flow  
-- API-first design  
-- security-aware development  
+Engineer by mindset. (I love to build stuff, it give me genuine kick.)
+Goal: Building my personal OS named King-OS.
 
 ### Experience Highlights
 - ✅ **4 real-world applications** actively in use  
@@ -54,11 +51,8 @@ My engineering approach emphasizes:
 
 ## 🎯 Current Focus
 
-- **Next.js (App Router) & TypeScript**
-- **Node.js & backend fundamentals**
-- **Authentication, authorization, and API design**
-- **Code quality, linting, and consistency**
 - **Cybersecurity fundamentals & CTF practice**
+- **Building OS or software in rust**
 
 ---
 
