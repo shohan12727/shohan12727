@@ -97,6 +97,9 @@ Profile_link: https://tryhackme.com/p/aishohan001
 
 ---
 
+
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -104,7 +107,8 @@ Profile_link: https://tryhackme.com/p/aishohan001
   <!-- Main Stats -->
   <img 
   height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=shohan12727&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    src="https://github-stats-extended.vercel.app/api?username=shohan12727&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
 />
 
   <!-- Streak Stats (more stable fork) -->
@@ -117,14 +121,16 @@ Profile_link: https://tryhackme.com/p/aishohan001
 
 <br/>
 
+
 ## 🧠 Language Usage
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shohan12727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Top Languages"
 />
 
 ---
+
 
 ## 📬 Contact
 
